@@ -1,6 +1,6 @@
 # eyestalk #
 
-a bot for testing an XMPP client for memory leaks
+a bot for testing an XMPP client for presence leaks
 
 ## usage ##
 
