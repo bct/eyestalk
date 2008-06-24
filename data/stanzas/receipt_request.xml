@@ -1,0 +1,4 @@
+<message xmlns="jabber:client">
+  <!-- this is a normal message that requests a XEP-0184 receipt -->
+  <request xmlns='urn:xmpp:receipts'/>
+</message>

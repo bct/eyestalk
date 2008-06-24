@@ -1,0 +1,4 @@
+<iq type='get' 
+    id='e2e1'>
+  <ping xmlns='urn:xmpp:ping'/>
+</iq>
